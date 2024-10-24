@@ -1,0 +1,2 @@
+// given an array of integers of size n. aanswer q queries whhere u need to print sum of values in a given range of indices from i to r
+// both(included). Note: value of i and r in the queries follow 1 based indexing.
